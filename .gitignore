@@ -1,0 +1,8 @@
+*.dll
+.vscode/
+venv/
+*.png
+*.mp4
+*.json
+*.txt
+step 1.split scenes(TransNet)/*
