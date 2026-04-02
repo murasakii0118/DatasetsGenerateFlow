@@ -5,13 +5,8 @@ venv/
 *.mp4
 *.json
 *.txt
-step 1.split scenes(TransNet)/configs/transnetv1.gin
-step 1.split scenes(TransNet)/configs/transnetv2-realtrans.gin
-step 1.split scenes(TransNet)/configs/transnetv2.gin
-step 1.split scenes(TransNet)/inference/__init__.py
-step 1.split scenes(TransNet)/inference/Dockerfile
-step 1.split scenes(TransNet)/inference/README.md
-step 1.split scenes(TransNet)/inference/transnetv2.py
-step 1.split scenes(TransNet)/inference/transnetv2-weights/saved_model.pb
-step 1.split scenes(TransNet)/inference/transnetv2-weights/variables/variables.data-00000-of-00001
-step 1.split scenes(TransNet)/inference/transnetv2-weights/variables/variables.index
+step 1.split scenes(TransNet)/configs/*
+step 1.split scenes(TransNet)/inference/*
+assets/mmproj-Qwen3VL-4B-Instruct-Q8_0.gguf
+step 5.generatePrompt/inferprompt.exe
+assets/Qwen3VL-4B-Instruct-Q8_0.gguf
