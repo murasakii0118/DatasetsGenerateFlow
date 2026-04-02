@@ -40,7 +40,7 @@ DatasetsGenerateFlow.
 │  openh264-1.8.0-win64.dll
 │  Readme.md
 │  requirement.txt
-│  Step.1-splitScenes.bat
+│  step.1-splitScenes.bat
 │  step.2-splitVideo(opencv).bat
 │  step.3-preliminaryFrame.bat
 │  step.4-precisionFrame.bat

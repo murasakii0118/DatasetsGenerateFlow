@@ -7,7 +7,7 @@ SCENES_DIR = "Scenes"
 
 OUTPUT_DIR = "videoSegments"
 
-EXECUTION = "Step 3.preliminaryFrame\\preliminaryFrame.exe"
+EXECUTION = "step 3.preliminaryFrame\\preliminaryFrame.exe"
 
 PRELIMINARY_FRAME = "preliminaryFrame"
 
